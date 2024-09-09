@@ -1,0 +1,13 @@
+//variables
+@import "./variables";
+// bootstrap
+@import "bootstrap/scss/functions";
+@import "bootstrap/scss/bootstrap";
+@import "bootstrap-icons/font/bootstrap-icons.css";
+
+// Custom.scss
+@import "./base/base";
+@import "./view/about";
+@import "./view/profile";
+@import "./view/character";
+
